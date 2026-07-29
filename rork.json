@@ -1,0 +1,15 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "ReviewFlow Pro",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "ReviewFlow Pro",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
